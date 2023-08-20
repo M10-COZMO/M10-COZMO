@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @M10-COZMO, but my real name is Gianmarco!🥶
-- ❓ Currently I'm a computer engineering student in Italy🇮🇹, and my main purpose here is to learn as much as possible✌️.
+- 👋 Hi, I’m @M10-COZMO, but my real name is Gianmarco!
+- 📚 Currently I'm a computer engineering student in Italy🇮🇹
+- - ❓ My main purpose here is to learn as much as possible✌️
 - 📫 if you want to cantact me you can find me on LinkedIn: www.linkedin.com/in/gianmarco-minardi-811bab1ab
 
 <!---
